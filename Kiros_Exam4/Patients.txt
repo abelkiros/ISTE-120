@@ -1,0 +1,263 @@
+Patient 00345:Harry T. Everyman is in wingNo.
+This is a room with a TV.
+Patient 20389:Martha G. Biggens is in wingYes.
+This is a room with a TV.
+Patient 03253:Hannah V. Watkins is in wingYes.
+This is a room with a TV.
+Patient 98234:Jane C. Morrison is in wingNo.
+This is a room with a TV.
+Patient 11923:James X. Doherty is in wingYes.
+This is a room with a TV.
+Surgical Patient 00345:Harry T. Everyman is in wingNo.
+This is a room with a TV.
+The patient's procedure is Bowl Resection
+Patient 20389:Martha G. Biggens is in wingYes.
+This is a room with a TV.
+Surgical Patient 03253:Hannah V. Watkins is in wingYes.
+This is a room with a TV.
+The patient's procedure is Knee Replacement
+Patient 98234:Jane C. Morrison is in wingNo.
+This is a room with a TV.
+Surgical Patient 11923:James X. Doherty is in wingYes.
+This is a room with a TV.
+The patient's procedure is Hip Replacement
+Surgical Patient 00345:Harry T. Everyman is in wing No.
+This is a room with a TV.
+The patient's procedure is Bowl Resection
+Maternity Patient 20389:Martha G. Biggens is in wing Yes.
+This is a room with a TV.
+The chosen name for the child is Thomas
+Surgical Patient 03253:Hannah V. Watkins is in wing Yes.
+This is a room with a TV.
+The patient's procedure is Knee Replacement
+Maternity Patient 98234:Jane C. Morrison is in wing No.
+This is a room with a TV.
+The chosen name for the child is Robert
+Surgical Patient 11923:James X. Doherty is in wing Yes.
+This is a room with a TV.
+The patient's procedure is Hip Replacement
+Surgical UNKNOWN
+The patient's procedure is Bowl Resection
+Maternity UNKNOWN
+The chosen name for the child is Thomas
+Surgical UNKNOWN
+The patient's procedure is Knee Replacement
+Maternity UNKNOWN
+The chosen name for the child is Robert
+Surgical UNKNOWN
+The patient's procedure is Hip Replacement
+Surgical Patient 00345:Harry T. Everyman is in wing No.
+This is a room with a TV.
+The patient's procedure is Bowl Resection
+Maternity Patient 20389:Martha G. Biggens is in wing Yes.
+This is a room with a TV.
+The chosen name for the child is Thomas
+Surgical Patient 03253:Hannah V. Watkins is in wing Yes.
+This is a room with a TV.
+The patient's procedure is Knee Replacement
+Maternity Patient 98234:Jane C. Morrison is in wing No.
+This is a room with a TV.
+The chosen name for the child is Robert
+Surgical Patient 11923:James X. Doherty is in wing Yes.
+This is a room with a TV.
+The patient's procedure is Hip Replacement
+Surgical Patient 229:Harry T. Everyman is in wing D.
+This is a room with a TV.
+The patient's procedure is Bowl Resection
+Maternity Patient 20389:Martha G. Biggens is in wing B.
+This is a room with a TV.
+The chosen name for the child is Thomas
+Surgical Patient 1707:Hannah V. Watkins is in wing D.
+This is a room with a TV.
+The patient's procedure is Knee Replacement
+Maternity Patient 98234:Jane C. Morrison is in wing B.
+This is a room with a TV.
+The chosen name for the child is Robert
+Surgical Patient 11923:James X. Doherty is in wing D.
+This is a room with a TV.
+The patient's procedure is Hip Replacement
+Surgical Patient 229:Harry T. Everyman is in wing D.
+This is a room without a TV.
+The patient's procedure is Bowl Resection
+Maternity Patient 20389:Martha G. Biggens is in wing B.
+This is a room with a TV.
+The chosen name for the child is Thomas
+Surgical Patient 1707:Hannah V. Watkins is in wing D.
+This is a room with a TV.
+The patient's procedure is Knee Replacement
+Maternity Patient 98234:Jane C. Morrison is in wing B.
+This is a room without a TV.
+The chosen name for the child is Robert
+Surgical Patient 11923:James X. Doherty is in wing D.
+This is a room with a TV.
+The patient's procedure is Hip Replacement
+Surgical Patient 229:Harry T. Everyman is in wing D.
+This is a room without a TV.
+The patient's procedure is Bowl Resection
+Maternity Patient 20389:Martha G. Biggens is in wing B.
+This is a room with a TV.
+The chosen name for the child is Thomas
+Surgical Patient 1707:Hannah V. Watkins is in wing D.
+This is a room with a TV.
+The patient's procedure is Knee Replacement
+Maternity Patient 98234:Jane C. Morrison is in wing B.
+This is a room without a TV.
+The chosen name for the child is Robert
+Surgical Patient 11923:James X. Doherty is in wing D.
+This is a room with a TV.
+The patient's procedure is Hip Replacement
+Surgical Patient 229:Harry T. Everyman is in wing D.
+This is a room without a TV.
+The patient's procedure is Bowl Resection
+Maternity Patient 20389:Martha G. Biggens is in wing B.
+This is a room with a TV.
+The chosen name for the child is Thomas
+Surgical Patient 1707:Hannah V. Watkins is in wing D.
+This is a room with a TV.
+The patient's procedure is Knee Replacement
+Maternity Patient 98234:Jane C. Morrison is in wing B.
+This is a room without a TV.
+The chosen name for the child is Robert
+Surgical Patient 11923:James X. Doherty is in wing D.
+This is a room with a TV.
+The patient's procedure is Hip Replacement
+
+Surgical Patient 229:Harry T. Everyman is in wing D.
+This is a room without a TV.
+The patient's procedure is Bowl Resection
+
+Maternity Patient 20389:Martha G. Biggens is in wing B.
+This is a room with a TV.
+The chosen name for the child is Thomas
+
+Surgical Patient 1707:Hannah V. Watkins is in wing D.
+This is a room with a TV.
+The patient's procedure is Knee Replacement
+
+Maternity Patient 98234:Jane C. Morrison is in wing B.
+This is a room without a TV.
+The chosen name for the child is Robert
+
+Surgical Patient 11923:James X. Doherty is in wing D.
+This is a room with a TV.
+The patient's procedure is Hip Replacement
+
+Surgical Patient 229:Harry T. Everyman is in wing D.
+This is a room without a TV.
+The patient's procedure is Bowl Resection
+
+Maternity Patient 20389:Martha G. Biggens is in wing B.
+This is a room with a TV.
+The chosen name for the child is Thomas
+
+Surgical Patient 1707:Hannah V. Watkins is in wing D.
+This is a room with a TV.
+The patient's procedure is Knee Replacement
+
+Maternity Patient 98234:Jane C. Morrison is in wing B.
+This is a room without a TV.
+The chosen name for the child is Robert
+
+Surgical Patient 11923:James X. Doherty is in wing D.
+This is a room with a TV.
+The patient's procedure is Hip Replacement
+
+Surgical Patient 229:Harry T. Everyman is in wing D.
+This is a room without a TV.
+The patient's procedure is Bowl Resection
+
+Maternity Patient 20389:Martha G. Biggens is in wing B.
+This is a room with a TV.
+The chosen name for the child is Thomas
+
+Surgical Patient 1707:Hannah V. Watkins is in wing D.
+This is a room with a TV.
+The patient's procedure is Knee Replacement
+
+Maternity Patient 98234:Jane C. Morrison is in wing B.
+This is a room without a TV.
+The chosen name for the child is Robert
+
+Surgical Patient 11923:James X. Doherty is in wing D.
+This is a room with a TV.
+The patient's procedure is Hip Replacement
+
+Surgical Patient 229:Harry T. Everyman is in wing D.
+This is a room without a TV.
+The patient's procedure is Bowl Resection
+
+Maternity Patient 20389:Martha G. Biggens is in wing B.
+This is a room with a TV.
+The chosen name for the child is Thomas
+
+Surgical Patient 1707:Hannah V. Watkins is in wing D.
+This is a room with a TV.
+The patient's procedure is Knee Replacement
+
+Maternity Patient 98234:Jane C. Morrison is in wing B.
+This is a room without a TV.
+The chosen name for the child is Robert
+
+Surgical Patient 11923:James X. Doherty is in wing D.
+This is a room with a TV.
+The patient's procedure is Hip Replacement
+
+Surgical Patient   229:Harry T. Everyman is in wing D.
+This is a room without a TV
+The patient's procedure is Bowl Resection
+
+Maternity Patient 20389:Martha G. Biggens is in wing B.
+This is a room with a TV
+The chosen name for the child is Thomas
+
+Surgical Patient  1707:Hannah V. Watkins is in wing D.
+This is a room with a TV
+The patient's procedure is Knee Replacement
+
+Maternity Patient 98234:Jane C. Morrison is in wing B.
+This is a room without a TV
+The chosen name for the child is Robert
+
+Surgical Patient 11923:James X. Doherty is in wing D.
+This is a room with a TV
+The patient's procedure is Hip Replacement
+
+Surgical Patient 00229:Harry T. Everyman is in wing D.
+This is a room without a TV
+The patient's procedure is Bowl Resection
+
+Maternity Patient 20389:Martha G. Biggens is in wing B.
+This is a room with a TV
+The chosen name for the child is Thomas
+
+Surgical Patient 01707:Hannah V. Watkins is in wing D.
+This is a room with a TV
+The patient's procedure is Knee Replacement
+
+Maternity Patient 98234:Jane C. Morrison is in wing B.
+This is a room without a TV
+The chosen name for the child is Robert
+
+Surgical Patient 11923:James X. Doherty is in wing D.
+This is a room with a TV
+The patient's procedure is Hip Replacement
+
+Surgical Patient 00229:Harry T. Everyman is in wing D.
+This is a room without a TV
+The patient's procedure is Bowl Resection
+
+Maternity Patient 20389:Martha G. Biggens is in wing B.
+This is a room with a TV
+The chosen name for the child is Thomas
+
+Surgical Patient 01707:Hannah V. Watkins is in wing D.
+This is a room with a TV
+The patient's procedure is Knee Replacement
+
+Maternity Patient 98234:Jane C. Morrison is in wing B.
+This is a room without a TV
+The chosen name for the child is Robert
+
+Surgical Patient 11923:James X. Doherty is in wing D.
+This is a room with a TV
+The patient's procedure is Hip Replacement
